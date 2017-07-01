@@ -1,0 +1,18 @@
+{
+  "name": "apiai-webhook-sample",
+  "version": "1.0.0",
+  "description": "Webhook sample",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danil Skachkov <danil.skachkov@speaktoit.com> (https://api.ai)",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "expresss": "0.0.0",
+    "nodemon": "^1.11.0"
+  }
+}
